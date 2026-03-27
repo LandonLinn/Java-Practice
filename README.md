@@ -10,6 +10,12 @@ Daily Java practice labs and structured exercises built around a
 - `phase-3-ai/` — Spring AI + Anthropic API experiments
 - `challenges/` — miscellaneous problem solving and kata
 
+## Labs So Far
+| Day | Lab | Concepts |
+|---|---|---|
+| 01 | BankAccount | OOP, encapsulation, constructors, guard clause |
+| 02 | Quiz App | Classes, arrays, Scanner, service layer pattern |
+
 ## Current Focus
 Phase 1 — Core Java, OOP, Spring Boot foundations
 
