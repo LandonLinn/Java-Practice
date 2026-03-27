@@ -29,4 +29,3 @@ Insufficient Funds
 > Private fields + public methods = controlled access.
 > Nothing outside the class should directly touch internal state.
 > Guard clauses fail fast and keep methods clean.
-```
