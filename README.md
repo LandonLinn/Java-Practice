@@ -8,7 +8,7 @@ Daily Java practice labs and structured exercises built around a
 - `phase-1-foundations/` — structured weekly exercises (Core Java → Spring Boot)
 - `phase-2-projects/` — original project builds (auth, Docker, deployment)
 - `phase-3-ai/` — Spring AI + Anthropic API experiments
-- `challenges/` — miscellaneous problem solving and kata
+- `playground/` — miscellaneous problem solving and kata
 
 ## Labs So Far
 | Day | Lab | Concepts |
